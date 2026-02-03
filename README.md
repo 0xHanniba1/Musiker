@@ -2,6 +2,12 @@
 
 A skeuomorphic web-based music player with Web Audio API.
 
+## Inspiration
+
+![Design Inspiration](inspiration.png)
+
+*Design inspiration — the goal is to achieve this level of skeuomorphic detail. Work in progress.*
+
 ## Features
 
 - **Waveform Visualization** — Real-time waveform display with click-to-seek
